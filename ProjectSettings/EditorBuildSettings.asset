@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GestureRecognizer.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Imports/GestureRecognition/Scenes/GestureSample.unity
+    guid: fe7c1f3d0bf82a546aeb1915f9463945
+  - enabled: 1
+    path: Assets/Scenes/HandInstrument 1.unity
+    guid: 37ec934a0410b4bee8ef0ccab505cb76
+  - enabled: 0
+    path: Assets/Scenes/SpringSimulation.unity
+    guid: 834bb1931f4514fb6b4971cf5e4c463b
+  - enabled: 0
+    path: Assets/Scenes/ClothSim.unity
+    guid: b165558186dd74b389e770970dc18795
+  - enabled: 0
+    path: Assets/Scenes/ParticleSim.unity
+    guid: 6d58f01126f9c42e9911061749505b73
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d50d319eb69234467baa8c7607f4c8b1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a92b3b0e1bbee4257893855cfa891bd4,
+      type: 2}
