@@ -22,4 +22,20 @@ Demo Video (Right click image to open in new tab)
 [![](http://img.youtube.com/vi/8fjA24pFIME/0.jpg)](http://www.youtube.com/watch?v=8fjA24pFIME "")
 
 
+## 2. VR Physics Simulations
+
+Experimented with some physics in Unity with VR
+
+Technologies used
+* Unity 3d
+* Unity custom particle system
+* Unity cloth and spring simulations
+* Oculus OVR Controller
+* Oculus Quest
+
+Demo Video (Right click image to open in new tab)
+
+[![](http://img.youtube.com/vi/W2AFHy0q1NQ/0.jpg)](http://www.youtube.com/watch?v=W2AFHy0q1NQ "")
+
+
 
