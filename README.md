@@ -13,7 +13,7 @@ Technologies used
 
 Results
 * Experience was trending on Unity3d Subreddit with around 200 upvotes
-  * [r/Unity3d](https://www.reddit.com/r/Unity3D/comments/ksvns7/turning_my_hands_into_an_instrument_with_hand/)
+(https://www.reddit.com/r/Unity3D/comments/ksvns7/turning_my_hands_into_an_instrument_with_hand/)
 
 
 
