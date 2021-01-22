@@ -5,8 +5,7 @@
 Create amazing music by pinching your hands
 
 Technologies used
-* Unity 3d
-* Simple Gesture Recognizer
+* Unity 3D
 * Oculus OVR Controller
 * Oculus Hand trakcing
 * Oculus Quest
