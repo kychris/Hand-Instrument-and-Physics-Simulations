@@ -36,5 +36,11 @@ Demo Video (Right click image to open in new tab)
 
 [![](http://img.youtube.com/vi/W2AFHy0q1NQ/0.jpg)](http://www.youtube.com/watch?v=W2AFHy0q1NQ "")
 
+Packages
+* Boids
+* Fantasy Skybox
+* Oculus Integration
+* Volumetric Fog
+
 
 
