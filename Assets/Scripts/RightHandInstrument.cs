@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RightHandInstrument : MonoBehaviour
 {
-    bool[] playable = new bool[] {true, true, true, true};
+    bool[] playable = new bool[] { true, true, true, true };
     OVRHand hand;
 
     AudioSource g4;
@@ -27,7 +27,7 @@ public class RightHandInstrument : MonoBehaviour
         float indexFingerPinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Index);
         float middlePinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Middle);
         float ringFingerPinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Ring);
-        float pinkyFingerPinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Pinky); 
+        float pinkyFingerPinchStrength = hand.GetFingerPinchStrength(OVRHand.HandFinger.Pinky);
 
         #region index finger
         if (indexFingerPinchStrength == 1 & playable[0] == true)

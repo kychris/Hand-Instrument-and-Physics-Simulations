@@ -50,7 +50,7 @@ public class MyGestureRecognizer : MonoBehaviour
     {
         for (int i = 0; i < fingerBones.Count; i++)
         {
-            //current finger position relative to root
+            // Get current finger position relative to root
             Vector3 currentData = skeleton.transform.InverseTransformPoint(fingerBones[i].Transform.position);
             float distance = Vector3.Distance(GestureToRecognize.fingerPositions[i], currentData);
             if (distance > recognitionThreshold)
